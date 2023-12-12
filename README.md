@@ -1,7 +1,7 @@
 # App-Dev
-My First Repository
+# My First Repository
 
-H1 Myfavorite series
+# Myfavorite series
 
 
 1.Ben-10
